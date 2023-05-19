@@ -1,6 +1,3 @@
-the first sample of clone and push
-https://github.com/Judephile/DEVSAID.git
-
 echo "# DEVSAID" >> README.md
 git init
 git add README.md
@@ -13,7 +10,3 @@ git push -u origin main
 git remote add origin https://github.com/Judephile/DEVSAID.git
 git branch -M main
 git push -u origin main
-
-
-
-git add origin https://github.com/Judephile/DEVSAID.git
